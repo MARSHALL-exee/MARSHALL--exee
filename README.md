@@ -2,7 +2,7 @@
 <h3 align="center">A Python/c Practitioner</h3>
 <img align="right" alt="CODING"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw35RiyxyaO1d_QBE0j_PsQE&ust=1721152670814000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCH5MHPqYcDFQAAAAAdAAAAABAE">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marshall-exee&label=Profile%20views&color=0e75b6&style=flat" alt="marshall-exee" /> </p>
+<p align="left"> <img src="tumblr_neo0zp9PWA1shpedgo1_500.gif" alt="mCODING" /> </p>
 
 - 🔭 I’m studying **Electronics and communication**
 
