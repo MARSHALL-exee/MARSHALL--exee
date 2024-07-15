@@ -1,4 +1,4 @@
-<h1 style="color: #4feb34" align="center">Hi 👋, I'm Padmaraj Harigal</h1>
+<h1 align="center"><font color="green">Hi 👋, I'm Padmaraj Harigal</font></h1>
 <h3 align="center">A Python/c Practitioner</h3>
 <img align="right" alt="CODING"width="400" src="e426702edf874b181aced1e2fa5c6cde.gif">
 
