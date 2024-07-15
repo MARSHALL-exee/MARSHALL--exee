@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Padmaraj Harigal Padmaraj Harigal</h1>
 <h3 align="center">A Python/c Practitioner</h3>
-<img align="right" alt="CODING"width="400" src="tumblr_neo0zp9PWA1shpedgo1_500.gif">
+<img align="right" alt="CODING"width="400" src="e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshall-exee&label=Profile%20views&color=0e75b6&style=flat" alt="marshall-exee" /> </p>
 
